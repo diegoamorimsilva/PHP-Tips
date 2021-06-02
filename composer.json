@@ -1,0 +1,12 @@
+{
+    "name": "diegoamorimsilva/php-tips",
+    "description": "curso php tips Robson V Leite",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Diego",
+            "email": "diego008dover@gmail.com"
+        }
+    ],
+    "require": {}
+}
